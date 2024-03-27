@@ -28,7 +28,7 @@
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
 </div>
 
-<h2 align="left">Drop me a line</h2>
+<h2 align="left">📨 Drop me a line</h2>
 <div align="left">
    <a href="mailto:makslav67@gmail.com" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Makslav67&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
