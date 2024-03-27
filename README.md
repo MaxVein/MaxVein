@@ -1,5 +1,9 @@
 <h2 align="left">Hi 👋! My name is Max and I'm a Front-end Jedi, from Ukraine</h2>
+###
 
+<h2 align="left">I code with</h2>
+
+###
 <div align="left">
   <img src="https://skillicons.dev/icons?i=angular" height="30" alt="angularjs logo"  />
   <img width="12" />
