@@ -24,8 +24,6 @@
   <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
 </div>
 
 <h2 align="left">✉️ Drop me a line</h2>
