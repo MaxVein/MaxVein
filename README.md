@@ -32,7 +32,9 @@
 ###
 
 <div align="left">
-   <img src="https://img.shields.io/static/v1?message=Makslav67&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
+     <a href="mailto:makslav67@gmail.com" target="_blank">
+       <img src="https://img.shields.io/static/v1?message=Makslav67&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
+     </a>
   <a href="https://www.linkedin.com/in/maksym-lavriv-6292bb1a6/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
   </a>
