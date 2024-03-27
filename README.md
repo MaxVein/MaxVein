@@ -41,15 +41,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MaxVein/MaxVein/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<img align="right" height="0" src=""  />
-
-###
